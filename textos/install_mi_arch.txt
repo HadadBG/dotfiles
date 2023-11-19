@@ -1,0 +1,39 @@
+instalar archlinux
+instalar xorg xinit
+instalar qtile
+instalar gnu-free-fonts
+instalar noto-fonts-emoji
+modificar /etc/X11/xinit/xinitrc quitando todo lo del final y dejando exec qtile
+instalar lightdm y lightdm-gtk-greeter
+instalar base-devel 
+instalar yay:
+sudo pacman -S git
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+insatlar :
+  bash-completion
+  alcritty
+  brightnessctl
+  rofi
+  alsa-utils
+  flameshot
+  gpick
+  spotify(AUR)
+  picom
+  thunar
+  firefox
+  feh
+  python-pip
+instalar fuentes de polybar-12 de https://github.com/adi1090x/polybar-themes
+  cd polybar-themes/polybar-12
+  cp -r fonts/* ~/.local/share/fonts/
+  fc-cache -v
+instalar dotfiles
+instalar dracula tema oscuro para firefox y vimium
+instalar plug vim
+pip install pynvim
+pip install dbus-next 
+
+
+Si se instala mondodb-compass instalar gnome-keyring

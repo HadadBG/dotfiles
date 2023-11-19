@@ -1,0 +1,129 @@
+argonaut
+jcolors:
+  # Default colors
+  primary:
+    background: '#292C3E'
+    foreground: '#EBEBEB'
+
+  # Cursor colors
+  cursor:
+   text: '#FF261E'
+   cursor: '#FF261E'
+
+  # Normal colors
+  normal:
+    black:   '#0d0d0d'
+    red:     '#FF301B'
+    green:   '#A0E521'
+    yellow:  '#FFC620'
+    blue:    '#1BA6FA'
+    magenta: '#8763B8'
+    cyan:    '#21DEEF'
+    white:   '#EBEBEB'
+
+  # Bright colors
+  bright:
+    black:   '#6D7070'
+    red:     '#FF4352'
+    green:   '#B8E466'
+    yellow:  '#FFD750'
+    blue:    '#1BA6FA'
+    magenta: '#A578EA'
+    cyan:    '#73FBF1'
+    white:   '#FEFEF8'
+
+
+
+nord
+# Colors (Nord)
+colors:
+   # Default colors
+   primary:
+     background: '#2E3440'
+     foreground: '#D8DEE9'
+
+   # Normal colors
+   normal:
+     black:   '#3B4252'
+     red:     '#BF616A'
+     green:   '#A3BE8C'
+     yellow:  '#EBCB8B'
+     blue:    '#81A1C1'
+     magenta: '#B48EAD'
+     cyan:    '#88C0D0'
+     white:   '#E5E9F0'
+
+   # Bright colors
+   bright:
+     black:   '#4C566A'
+     red:     '#BF616A'
+     green:   '#A3BE8C'
+     yellow:  '#EBCB8B'
+     blue:    '#81A1C1'
+     magenta: '#B48EAD'
+     cyan:    '#8FBCBB'
+     white:   '#ECEFF4'
+
+nova
+
+# Colors (Nova)
+colors:
+  # Default colors
+  primary:
+    background: '#3C4C55'
+    foreground: '#C5D4DD'
+
+  cursor:
+    text: '#212121'
+    cursor: '#C0C5CE'
+
+  # Normal colors
+  normal:
+    black:   '#3C4C55'
+    red:     '#DF8C8C'
+    green:   '#A8CE93'
+    yellow:  '#DADA93'
+    blue:    '#83AFE5'
+    magenta: '#9A93E1'
+    cyan:    '#7FC1CA'
+    white:   '#C5D4DD'
+
+  # Bright colors
+  bright:
+    black:   '#899BA6'
+    red:     '#F2C38F'
+    green:   '#A8CE93'
+    yellow:  '#DADA93'
+    blue:    '#83AFE5'
+    magenta: '#D18EC2'
+    cyan:    '#7FC1CA'
+    white:   '#E6EEF3'
+popos
+
+colors:
+  # Default colors
+  primary:
+    background: '#333333'
+    foreground: '#F2F2F2'
+
+  # Normal colors
+  normal:
+    black:   '#333333'
+    red:     '#CC0000'
+    green:   '#4E9A06'
+    yellow:  '#C4A000'
+    blue:    '#3465A4'
+    magenta: '#75507B'
+    cyan:    '#06989A'
+    white:   '#D3D7CF'
+
+  # Bright colors
+  bright:
+    black:   '#88807C'
+    red:     '#F15D22'
+    green:   '#73C48F'
+    yellow:  '#FFCE51'
+    blue:    '#48B9C7'
+    magenta: '#AD7FA8'
+    cyan:    '#34E2E2'
+    white:   '#EEEEEC'

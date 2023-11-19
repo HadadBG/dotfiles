@@ -1,0 +1,9 @@
+Brillo con clight
+Calendario al clickar en la fecha
+Compton para controlar transparencias 
+Spotify compatibel con window manager
+https://www.reddit.com/r/unixporn/comments/fsx8bo/oc_rofi_new_applications_launchers_for_rofi/
+https://www.reddit.com/r/unixporn/comments/fs0kek/bspwm_now_with_an_easy_installation_script/
+https://www.reddit.com/r/unixporn/comments/cmqsxd/i3_gaps_anotha_one/
+https://www.reddit.com/r/unixporn/comments/fraz2p/bspwm_easy_on_the_eyes/
+https://www.reddit.com/r/unixporn/comments/c90hn1/kde_plasma_crystal_clear/
