@@ -1,0 +1,8 @@
+[Info  - 16:41:36] Angular language server process ID: 1855
+[Info  - 16:41:36] Using typescript/lib/tsserverlibrary v4.0.2 from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 16:41:36] Using @angular/language-service v10.1.1 from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 16:41:36] Log file: /home/hadad/.config/Code - OSS/logs/20201023T164118/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 16:42:06] Disabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Info  - 16:42:06] Enabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json.
+[Info  - 16:42:06] Enabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json.
+[Error - 16:42:06] No config file for /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.html

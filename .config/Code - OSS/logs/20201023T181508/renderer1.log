@@ -1,0 +1,5 @@
+[2020-10-23 18:20:41.087] [renderer1] [error] timeout after 1000 ms: Error: timeout after 1000 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3044:67)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3043:339
+    at async e.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6272:183)
+    at async Promise.all (index 0)

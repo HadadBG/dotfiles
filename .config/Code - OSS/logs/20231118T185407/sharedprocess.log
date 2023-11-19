@@ -1,0 +1,22 @@
+[2023-11-18 18:54:21.603] [sharedprocess] [info] Starting worker process with pid 4943 (type: fileWatcher, window: 1).
+[2023-11-18 18:54:25.851] [sharedprocess] [info] Getting Manifest... angular.ng-template
+[2023-11-18 18:54:25.855] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2023-11-18 18:54:25.859] [sharedprocess] [info] Getting Manifest... vscodevim.vim
+[2023-11-18 18:54:26.547] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2023-11-18 18:54:26.827] [sharedprocess] [info] Installing extension: angular.ng-template
+[2023-11-18 18:54:27.259] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2023-11-18 18:54:28.899] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/hadad/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-10.1.0-universal
+[2023-11-18 18:54:29.333] [sharedprocess] [info] Extracted extension to /home/hadad/.vscode-oss/extensions/.2a03bf4f-ca56-487c-912c-96b6effe79a8: esbenp.prettier-vscode
+[2023-11-18 18:54:29.398] [sharedprocess] [info] Renamed to /home/hadad/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal
+[2023-11-18 18:54:29.404] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2023-11-18 18:54:29.477] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2023-11-18 18:54:30.198] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/hadad/.config/Code - OSS/CachedExtensionVSIXs/vscodevim.vim-1.24.3-universal
+[2023-11-18 18:54:30.437] [sharedprocess] [info] Extracted extension to /home/hadad/.vscode-oss/extensions/.03b4664d-29d2-4a1b-802d-df3b006c600d: vscodevim.vim
+[2023-11-18 18:54:30.503] [sharedprocess] [info] Renamed to /home/hadad/.vscode-oss/extensions/vscodevim.vim-1.24.3-universal
+[2023-11-18 18:54:30.509] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2023-11-18 18:54:30.585] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2023-11-18 18:54:55.261] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/hadad/.config/Code - OSS/CachedExtensionVSIXs/angular.ng-template-14.1.0-universal
+[2023-11-18 18:54:57.856] [sharedprocess] [info] Extracted extension to /home/hadad/.vscode-oss/extensions/.cded6cf3-9f0a-442a-8010-2e9cd47a31ef: angular.ng-template
+[2023-11-18 18:54:57.942] [sharedprocess] [info] Renamed to /home/hadad/.vscode-oss/extensions/angular.ng-template-14.1.0-universal
+[2023-11-18 18:54:57.945] [sharedprocess] [info] Extracting completed. angular.ng-template
+[2023-11-18 18:54:58.010] [sharedprocess] [info] Extension installed successfully: angular.ng-template

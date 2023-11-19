@@ -1,0 +1,7 @@
+[2023-11-19T00:59:23.434Z] Log level: Info
+[2023-11-19T00:59:23.441Z] [info] Validating found git in: git
+[2023-11-19T00:59:23.522Z] [info] Using git 2.36.1 from git
+[2023-11-19T00:59:23.604Z] > git rev-parse --show-toplevel [58ms]
+[2023-11-19T00:59:23.679Z] > git rev-parse --git-dir --git-common-dir [49ms]
+[2023-11-19T00:59:23.687Z] [info] Open repository: /home/hadad
+[2023-11-19T00:59:24.266Z] > git check-ignore -v -z --stdin [1ms]

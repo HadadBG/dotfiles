@@ -1,0 +1,31 @@
+[2023-11-18 18:54:24.359] [exthost] [info] Extension host with pid 4913 started
+[2023-11-18 18:54:24.359] [exthost] [info] Skipping acquiring lock for /home/hadad/.config/Code - OSS/User/workspaceStorage/b71ff0f003e82920a6517178819cc613.
+[2023-11-18 18:54:24.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-11-18 18:54:24.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-11-18 18:54:24.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-11-18 18:54:24.932] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: true, activationEvent: '*'
+[2023-11-18 18:54:25.314] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2023-11-18 18:54:25.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2023-11-18 18:54:26.024] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-11-18 18:54:26.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-11-18 18:54:27.625] [exthost] [info] Eager extensions activated
+[2023-11-18 18:54:27.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-11-18 18:54:27.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-11-18 18:55:08.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2023-11-18 18:57:02.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-11-18 18:57:02.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-11-18 18:57:03.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-11-18 18:57:51.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-11-18 18:57:51.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2023-11-18 18:57:51.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2023-11-18 18:59:00.477] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2023-11-18 18:59:00.539] [exthost] [error] Canceled: Canceled
+	at Object.L [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+	at s._remoteCall (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:86:13902)
+	at Proxy.k.<computed>.B.charCodeAt.k.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:86:10298)
+	at C.showMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:181272)
+	at Object.showErrorMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:97:41458)
+	at /usr/lib/code/extensions/git/dist/main.js:2:1027042
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async o._executeContributedCommand (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:62513) git.commit {"value":"vscode.git","_lower":"vscode.git"}
+[2023-11-18 18:59:00.554] [exthost] [info] Extension host with pid 4913 exiting with code 0

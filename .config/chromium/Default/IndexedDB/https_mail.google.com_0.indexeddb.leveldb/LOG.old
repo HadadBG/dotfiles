@@ -1,0 +1,5 @@
+2020/09/11-09:32:16.489 da5d Reusing MANIFEST /home/hadad/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-09:33:42.508 dca9 Level-0 table #5: started
+2020/09/11-09:33:42.540 dca9 Level-0 table #5: 2067 bytes OK
+2020/09/11-09:33:42.573 dca9 Delete type=0 #3
+2020/09/11-09:33:42.573 dca9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

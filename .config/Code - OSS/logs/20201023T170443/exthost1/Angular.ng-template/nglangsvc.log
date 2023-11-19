@@ -1,0 +1,419 @@
+Info 0    [17:4:55.791] Format host information updated
+Info 1    [17:4:55.791] reload projects.
+Info 2    [17:4:55.791] Before ensureProjectForOpenFiles:
+Info 3    [17:4:55.791] After ensureProjectForOpenFiles:
+Info 4    [17:4:55.792] Host file extension mappings updated
+Info 5    [17:4:55.820] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app
+Info 6    [17:4:55.823] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 7    [17:4:55.824] Opened configuration file /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 8    [17:4:55.861] Config: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json : {
+ "rootNames": [],
+ "options": {
+  "configFilePath": "/home/hadad/paginas/angular-tour-of-heroes/tsconfig.json"
+ },
+ "projectReferences": [
+  {
+   "path": "/home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json",
+   "originalPath": "./tsconfig.app.json"
+  },
+  {
+   "path": "/home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json",
+   "originalPath": "./tsconfig.spec.json"
+  }
+ ]
+}
+Info 9    [17:4:55.866] Loading global plugin @angular/language-service
+Info 10   [17:4:55.866] Enabling plugin @angular/language-service from candidate paths: /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js,/home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [17:4:55.866] Loading @angular/language-service from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [17:4:56.62] Plugin validation succeded
+Info 13   [17:4:56.145] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 14   [17:4:56.229] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json Version: 1 structureChanged: true Elapsed: 84ms
+Info 15   [17:4:56.229] Project '/home/hadad/paginas/angular-tour-of-heroes/tsconfig.json' (Configured)
+Info 16   [17:4:56.229] 	Files (0)
+
+Info 17   [17:4:56.229] -----------------------------------------------
+Info 18   [17:4:56.233] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 19   [17:4:56.234] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json Version: 2 structureChanged: false Elapsed: 1ms
+Info 20   [17:4:56.239] Disabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 21   [17:4:56.239] Opened configuration file /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 22   [17:4:56.255] Config: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json : {
+ "rootNames": [
+  "/home/hadad/paginas/angular-tour-of-heroes/src/main.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/polyfills.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/hadad/paginas/angular-tour-of-heroes",
+  "outDir": "/home/hadad/paginas/angular-tour-of-heroes/out-tsc/app",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "types": [],
+  "configFilePath": "/home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json"
+ }
+}
+Info 23   [17:4:56.258] Loading global plugin @angular/language-service
+Info 24   [17:4:56.258] Enabling plugin @angular/language-service from candidate paths: /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js,/home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 25   [17:4:56.258] Loading @angular/language-service from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 26   [17:4:56.282] Plugin validation succeded
+Info 27   [17:4:56.285] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 28   [17:5:5.851] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 1 structureChanged: true Elapsed: 9566ms
+Info 29   [17:5:5.851] Project '/home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json' (Configured)
+Info 30   [17:5:5.851] 	Files (206)
+
+Info 31   [17:5:5.851] -----------------------------------------------
+Info 32   [17:5:5.898] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 33   [17:5:6.15] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 117ms
+Info 34   [17:5:6.15] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 35   [17:5:6.15] 	Files (2)
+
+Info 36   [17:5:6.15] -----------------------------------------------
+Info 37   [17:5:6.15] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 38   [17:5:6.18] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 2 structureChanged: false Elapsed: 3ms
+Info 39   [17:5:6.254] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 40   [17:5:6.304] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 3 structureChanged: false Elapsed: 49ms
+Info 41   [17:5:6.305] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 42   [17:6:10.234] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 43   [17:6:10.300] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 4 structureChanged: false Elapsed: 65ms
+Info 44   [17:6:10.300] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 45   [17:6:10.584] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 46   [17:6:10.669] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 5 structureChanged: false Elapsed: 85ms
+Info 47   [17:6:10.669] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 48   [17:6:11.68] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 49   [17:6:11.132] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 6 structureChanged: false Elapsed: 63ms
+Info 50   [17:6:11.133] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 51   [17:6:11.414] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 52   [17:6:11.455] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 7 structureChanged: false Elapsed: 41ms
+Info 53   [17:6:11.456] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 54   [17:6:11.685] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 55   [17:6:11.739] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 8 structureChanged: false Elapsed: 54ms
+Info 56   [17:6:11.739] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 57   [17:6:12.163] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 58   [17:6:12.204] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 9 structureChanged: false Elapsed: 41ms
+Info 59   [17:6:12.204] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 60   [17:6:12.550] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 61   [17:6:12.682] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 10 structureChanged: false Elapsed: 131ms
+Info 62   [17:6:12.682] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 63   [17:6:12.924] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 64   [17:6:12.975] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 11 structureChanged: false Elapsed: 50ms
+Info 65   [17:6:12.975] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 66   [17:6:13.314] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 67   [17:6:13.374] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 12 structureChanged: false Elapsed: 60ms
+Info 68   [17:6:13.374] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 69   [17:6:14.246] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 70   [17:6:14.299] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 13 structureChanged: false Elapsed: 52ms
+Info 71   [17:6:14.299] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 72   [17:6:15.212] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 73   [17:6:15.255] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 14 structureChanged: false Elapsed: 43ms
+Info 74   [17:6:15.255] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 75   [17:6:17.129] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 76   [17:6:17.179] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 15 structureChanged: false Elapsed: 50ms
+Info 77   [17:6:17.179] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 78   [17:6:18.480] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 79   [17:6:18.533] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 16 structureChanged: false Elapsed: 53ms
+Info 80   [17:6:18.533] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 81   [17:6:19.166] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 82   [17:6:19.209] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 17 structureChanged: false Elapsed: 43ms
+Info 83   [17:6:19.209] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 84   [17:6:19.520] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 85   [17:6:19.572] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 18 structureChanged: false Elapsed: 52ms
+Info 86   [17:6:19.572] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 87   [17:6:21.193] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 88   [17:6:21.234] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 19 structureChanged: false Elapsed: 41ms
+Info 89   [17:6:21.234] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 90   [17:6:22.72] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 91   [17:6:22.127] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 20 structureChanged: false Elapsed: 55ms
+Info 92   [17:6:22.127] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 93   [17:6:22.955] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 94   [17:6:23.0] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 21 structureChanged: false Elapsed: 44ms
+Info 95   [17:6:23.0] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 96   [17:6:23.934] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 97   [17:6:23.967] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 22 structureChanged: false Elapsed: 33ms
+Info 98   [17:6:23.967] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 99   [17:6:24.150] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 100  [17:6:24.230] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 23 structureChanged: false Elapsed: 80ms
+Info 101  [17:6:24.230] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 102  [17:6:24.631] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 103  [17:6:24.671] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 24 structureChanged: false Elapsed: 40ms
+Info 104  [17:6:24.671] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 105  [17:6:27.557] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 106  [17:6:27.596] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 25 structureChanged: false Elapsed: 39ms
+Info 107  [17:6:27.597] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 108  [17:6:28.257] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 109  [17:6:28.302] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 26 structureChanged: false Elapsed: 45ms
+Info 110  [17:6:28.302] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 111  [17:6:28.899] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 112  [17:6:28.951] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 27 structureChanged: false Elapsed: 52ms
+Info 113  [17:6:28.951] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 114  [17:6:29.206] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 115  [17:6:29.262] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 28 structureChanged: false Elapsed: 56ms
+Info 116  [17:6:29.262] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 117  [17:6:29.655] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 118  [17:6:29.721] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 29 structureChanged: false Elapsed: 66ms
+Info 119  [17:6:29.721] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 120  [17:6:30.368] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 121  [17:6:30.417] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 30 structureChanged: false Elapsed: 49ms
+Info 122  [17:6:30.417] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 123  [17:6:34.403] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 124  [17:6:34.440] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 31 structureChanged: false Elapsed: 37ms
+Info 125  [17:6:34.440] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 126  [17:6:34.768] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 127  [17:6:34.821] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 32 structureChanged: false Elapsed: 53ms
+Info 128  [17:6:34.821] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 129  [17:6:35.482] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 130  [17:6:35.516] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 33 structureChanged: false Elapsed: 34ms
+Info 131  [17:6:35.516] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 132  [17:6:35.876] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 133  [17:6:35.908] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 34 structureChanged: false Elapsed: 32ms
+Info 134  [17:6:35.908] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 135  [17:6:36.600] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 136  [17:6:36.637] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 35 structureChanged: false Elapsed: 37ms
+Info 137  [17:6:36.637] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 138  [17:6:37.207] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 139  [17:6:37.236] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 36 structureChanged: false Elapsed: 29ms
+Info 140  [17:6:37.236] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 141  [17:6:37.586] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 142  [17:6:37.630] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 37 structureChanged: false Elapsed: 43ms
+Info 143  [17:6:37.630] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 144  [17:6:38.390] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 145  [17:6:38.428] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 38 structureChanged: false Elapsed: 37ms
+Info 146  [17:6:38.428] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 147  [17:6:38.941] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 148  [17:6:38.979] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 39 structureChanged: false Elapsed: 38ms
+Info 149  [17:6:38.979] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 150  [17:6:39.732] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 151  [17:6:39.784] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 40 structureChanged: false Elapsed: 52ms
+Info 152  [17:6:39.784] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 153  [17:6:40.617] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 154  [17:6:40.658] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 41 structureChanged: false Elapsed: 41ms
+Info 155  [17:6:40.658] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 156  [17:6:41.46] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 157  [17:6:41.80] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 42 structureChanged: false Elapsed: 34ms
+Info 158  [17:6:41.80] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 159  [17:6:43.5] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 160  [17:6:43.55] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 43 structureChanged: false Elapsed: 50ms
+Info 161  [17:6:43.55] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 162  [17:6:44.647] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 163  [17:6:44.692] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 44 structureChanged: false Elapsed: 45ms
+Info 164  [17:6:44.692] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 165  [17:6:45.248] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 166  [17:6:45.303] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 45 structureChanged: false Elapsed: 55ms
+Info 167  [17:6:45.303] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 168  [17:6:45.630] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 169  [17:6:45.675] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 46 structureChanged: false Elapsed: 45ms
+Info 170  [17:6:45.675] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 171  [17:6:46.193] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 172  [17:6:46.250] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 47 structureChanged: false Elapsed: 57ms
+Info 173  [17:6:46.251] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 174  [17:7:4.169] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 175  [17:7:4.221] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 48 structureChanged: false Elapsed: 52ms
+Info 176  [17:7:4.221] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 177  [17:7:4.809] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 178  [17:7:4.854] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 49 structureChanged: false Elapsed: 45ms
+Info 179  [17:7:4.854] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 180  [17:7:8.291] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 181  [17:7:8.343] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 50 structureChanged: false Elapsed: 51ms
+Info 182  [17:7:8.343] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 183  [17:7:12.978] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 184  [17:7:13.15] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 51 structureChanged: false Elapsed: 37ms
+Info 185  [17:7:13.15] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 186  [17:18:8.245] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes
+Info 187  [17:18:8.247] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.html :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 188  [17:18:8.247] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 189  [17:18:8.251] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 52 structureChanged: false Elapsed: 4ms
+Info 190  [17:18:8.251] Opened configuration file /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 191  [17:18:8.284] Config: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json : {
+ "rootNames": [
+  "/home/hadad/paginas/angular-tour-of-heroes/src/test.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/polyfills.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.spec.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/app/hero.service.spec.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/app/message.service.spec.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.spec.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts",
+  "/home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.spec.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/hadad/paginas/angular-tour-of-heroes",
+  "outDir": "/home/hadad/paginas/angular-tour-of-heroes/out-tsc/spec",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "types": [
+   "jasmine"
+  ],
+  "configFilePath": "/home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json"
+ }
+}
+Info 192  [17:18:8.286] Loading global plugin @angular/language-service
+Info 193  [17:18:8.286] Enabling plugin @angular/language-service from candidate paths: /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js,/home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 194  [17:18:8.287] Loading @angular/language-service from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 195  [17:18:8.395] Plugin validation succeded
+Info 196  [17:18:8.400] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 197  [17:18:11.811] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json Version: 1 structureChanged: true Elapsed: 3411ms
+Info 198  [17:18:11.811] Project '/home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json' (Configured)
+Info 199  [17:18:11.812] 	Files (118)
+
+Info 200  [17:18:11.812] -----------------------------------------------
+Info 201  [17:18:11.813] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 202  [17:18:11.815] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json Version: 2 structureChanged: false Elapsed: 2ms
+Info 203  [17:49:41.661] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app
+Info 204  [17:49:41.661] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 205  [17:49:44.933] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app
+Info 206  [17:49:44.933] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 207  [17:49:44.933] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 208  [17:49:45.13] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 53 structureChanged: false Elapsed: 80ms
+Info 209  [17:49:45.13] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 210  [17:49:49.870] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 211  [17:49:49.877] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 54 structureChanged: false Elapsed: 6ms
+Info 212  [17:49:51.594] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 213  [17:49:51.601] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 55 structureChanged: false Elapsed: 6ms
+Info 214  [17:49:52.746] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 215  [17:49:52.749] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 56 structureChanged: false Elapsed: 3ms
+Info 216  [17:49:53.193] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 217  [17:49:53.201] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 57 structureChanged: false Elapsed: 8ms
+Info 218  [17:49:53.715] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 219  [17:49:53.719] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 58 structureChanged: false Elapsed: 4ms
+Info 220  [17:49:54.268] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 221  [17:49:54.270] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 59 structureChanged: false Elapsed: 2ms
+Info 222  [17:49:54.941] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 223  [17:49:54.946] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 60 structureChanged: false Elapsed: 5ms
+Info 224  [17:49:57.333] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 225  [17:49:57.340] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 61 structureChanged: false Elapsed: 6ms
+Info 226  [17:49:58.173] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 227  [17:49:58.179] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 62 structureChanged: false Elapsed: 6ms
+Info 228  [17:49:58.803] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 229  [17:49:58.814] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 63 structureChanged: false Elapsed: 11ms
+Info 230  [17:49:59.132] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 231  [17:49:59.138] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 64 structureChanged: false Elapsed: 5ms
+Info 232  [17:49:59.378] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 233  [17:49:59.381] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 65 structureChanged: false Elapsed: 3ms
+Info 234  [17:50:0.330] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 235  [17:50:0.336] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 66 structureChanged: false Elapsed: 6ms
+Info 236  [17:51:0.623] DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 237  [17:51:0.624] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 238  [17:51:0.624] DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 239  [17:51:0.624] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 240  [17:51:0.624] DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 241  [17:51:0.624] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 242  [17:51:2.721] DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 243  [17:51:2.722] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 244  [17:51:2.722] DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 245  [17:51:2.722] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json WatchType: Failed Lookup Locations
+Info 246  [17:51:2.722] DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 247  [17:51:2.722] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/hadad/paginas/angular-tour-of-heroes/node_modules/@angular/compiler-cli/ngcc/__ngcc_lock_file__ 0:: WatchInfo: /home/hadad/paginas/angular-tour-of-heroes/node_modules 1 undefined Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json WatchType: Failed Lookup Locations
+Info 248  [17:54:33.739] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app
+Info 249  [17:54:33.762] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/app.module.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 250  [17:54:33.763] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 251  [17:54:33.822] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 67 structureChanged: false Elapsed: 59ms
+Info 252  [17:54:33.822] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 253  [17:55:49.731] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 254  [17:55:49.872] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 68 structureChanged: false Elapsed: 113ms
+Info 255  [17:55:49.872] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 256  [17:56:5.2] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 257  [17:56:5.117] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 69 structureChanged: true Elapsed: 115ms
+Info 258  [17:56:5.117] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 259  [17:56:31.838] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes
+Info 260  [17:56:31.838] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 261  [17:56:32.63] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail
+Info 262  [17:56:32.63] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 263  [17:56:32.64] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 264  [17:56:32.124] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 70 structureChanged: false Elapsed: 60ms
+Info 265  [17:56:32.124] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 266  [17:57:4.438] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail
+Info 267  [17:57:4.438] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.spec.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 268  [17:57:9.731] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail
+Info 269  [17:57:9.732] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 270  [17:57:29.409] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes
+Info 271  [17:57:29.409] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 272  [17:57:35.202] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail
+Info 273  [17:57:35.203] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.spec.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 274  [17:57:53.665] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/messages
+Info 275  [17:57:53.683] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 276  [17:58:6.395] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app
+Info 277  [17:58:6.395] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/message.service.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 278  [17:59:31.859] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes
+Info 279  [17:59:31.859] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 280  [17:59:37.866] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 281  [17:59:37.925] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 71 structureChanged: false Elapsed: 59ms
+Info 282  [17:59:37.925] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 283  [17:59:37.960] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 284  [17:59:38.11] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json Version: 3 structureChanged: false Elapsed: 51ms
+Info 285  [17:59:38.12] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 286  [17:59:38.440] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 287  [17:59:38.485] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 72 structureChanged: false Elapsed: 44ms
+Info 288  [17:59:38.485] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 289  [17:59:38.547] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 290  [17:59:38.592] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json Version: 4 structureChanged: false Elapsed: 45ms
+Info 291  [17:59:38.592] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 292  [17:59:38.909] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 293  [17:59:38.956] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 73 structureChanged: false Elapsed: 47ms
+Info 294  [17:59:38.956] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 295  [17:59:38.997] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 296  [17:59:39.37] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json Version: 5 structureChanged: false Elapsed: 39ms
+Info 297  [17:59:39.37] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 298  [17:59:42.703] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 299  [17:59:42.773] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 74 structureChanged: false Elapsed: 70ms
+Info 300  [17:59:42.773] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 301  [18:0:10.432] Search path: /home/hadad/paginas/angular-tour-of-heroes/src/app/messages
+Info 302  [18:0:10.433] For info: /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.html :: Config file name: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json
+Info 303  [18:0:10.434] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 304  [18:0:10.437] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 75 structureChanged: false Elapsed: 3ms
+Info 305  [18:0:10.437] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json
+Info 306  [18:0:10.484] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json Version: 6 structureChanged: false Elapsed: 47ms
+Info 307  [18:0:10.484] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 308  [18:0:19.717] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 309  [18:0:19.723] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 76 structureChanged: false Elapsed: 5ms
+Info 310  [18:0:20.16] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 311  [18:0:20.18] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 77 structureChanged: false Elapsed: 2ms
+Info 312  [18:0:20.387] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 313  [18:0:20.394] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 78 structureChanged: false Elapsed: 7ms
+Info 314  [18:0:49.980] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 315  [18:0:49.982] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 79 structureChanged: false Elapsed: 2ms
+Info 316  [18:1:17.350] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 317  [18:1:17.403] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 80 structureChanged: false Elapsed: 53ms
+Info 318  [18:1:17.404] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 319  [18:1:17.695] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 320  [18:1:17.756] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 81 structureChanged: false Elapsed: 61ms
+Info 321  [18:1:17.756] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 322  [18:1:23.399] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 323  [18:1:23.460] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 82 structureChanged: false Elapsed: 61ms
+Info 324  [18:1:23.460] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 325  [18:4:22.114] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 326  [18:4:22.172] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 83 structureChanged: false Elapsed: 56ms
+Info 327  [18:4:22.172] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 328  [18:4:25.434] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 329  [18:4:25.489] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 84 structureChanged: false Elapsed: 55ms
+Info 330  [18:4:25.489] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 331  [18:4:25.894] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 332  [18:4:25.980] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 85 structureChanged: false Elapsed: 86ms
+Info 333  [18:4:25.980] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 334  [18:7:12.426] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 335  [18:7:12.477] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 86 structureChanged: false Elapsed: 51ms
+Info 336  [18:7:12.477] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 337  [18:7:13.603] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 338  [18:7:14.53] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 87 structureChanged: false Elapsed: 450ms
+Info 339  [18:7:14.53] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 340  [18:7:37.717] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 341  [18:7:38.96] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 88 structureChanged: false Elapsed: 55ms
+Info 342  [18:7:38.96] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 343  [18:8:6.247] Starting updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json
+Info 344  [18:8:6.297] Finishing updateGraphWorker: Project: /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json Version: 89 structureChanged: false Elapsed: 50ms
+Info 345  [18:8:6.297] Different program with same set of files:: oldProgram.structureIsReused:: 2

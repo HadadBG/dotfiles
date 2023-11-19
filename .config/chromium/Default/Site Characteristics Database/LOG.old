@@ -1,0 +1,6 @@
+2023/11/18-18:55:14.130 15b0 Log #6: 9 ops saved to Table #7 OK
+2023/11/18-18:55:14.131 15b0 Archiving /home/hadad/.config/chromium/Default/Site Characteristics Database/000006.log: OK
+2023/11/18-18:55:14.150 15b0 Table #4: 2 entries OK
+2023/11/18-18:55:14.150 15b0 Table #7: 9 entries OK
+2023/11/18-18:55:14.151 15b0 Archiving /home/hadad/.config/chromium/Default/Site Characteristics Database/MANIFEST-000001: OK
+2023/11/18-18:55:14.298 15b0 **** Repaired leveldb /home/hadad/.config/chromium/Default/Site Characteristics Database; recovered 2 files; 678 bytes. Some data may have been lost. ****

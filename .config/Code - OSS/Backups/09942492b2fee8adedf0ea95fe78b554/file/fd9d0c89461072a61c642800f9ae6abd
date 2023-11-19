@@ -1,0 +1,32 @@
+file:///home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts {"mtime":1603659662916,"ctime":1603211535260,"size":799,"etag":"35s0mhhe2po","orphaned":false}
+import { Component, OnInit, Input } from '@angular/core';
+import { Hero } from '../hero';
+import { ActivatedRoute } from '@angular/router';
+import { HeroService } from '../hero.service';
+import {Location} from'@angular/common';
+
+@Component({
+  selector: 'app-hero-detail',
+  templateUrl: './hero-detail.component.html',
+  styleUrls: ['./hero-detail.component.css']
+})
+export class HeroDetailComponent implements OnInit {
+  hero:Hero;
+  constructor(
+    private route:ActivatedRoute,
+    private heroService:HeroService,
+    private location:Location
+   ) { }
+
+  ngOnInit(): void {
+    this.getHero();
+  }
+  getHero():void{
+    const id = + this.route.snapshot.paramMap.get('id');
+    this.heroService.getHero(id).subscribe(hero=>this.hero=hero)
+  }
+  goBack():void{
+    this.location.back();
+  }
+
+}

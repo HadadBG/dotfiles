@@ -1,0 +1,52 @@
+[2020-10-23 16:41:31.906] [exthost] [info] extension host started
+[2020-10-23 16:41:31.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-10-23 16:41:31.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-10-23 16:41:32.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-10-23 16:41:32.127] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2020-10-23 16:41:32.273] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"extensionId":{"value":"Angular.ng-template","_lower":"angular.ng-template"},"activationEvent":"onLanguage:html"}
+[2020-10-23 16:41:32.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/client
+[2020-10-23 16:41:33.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-10-23 16:41:33.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/css-language-features/client/dist/cssMain
+[2020-10-23 16:41:33.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-10-23 16:41:33.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-10-23 16:41:33.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-10-23 16:41:33.333] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-10-23 16:41:33.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-10-23 16:41:33.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-10-23 16:41:33.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-10-23 16:41:33.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-10-23 16:41:33.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-10-23 16:41:33.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-10-23 16:41:33.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-10-23 16:41:33.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-10-23 16:41:33.643] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-10-23 16:41:33.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hadad/.vscode-oss/extensions/esbenp.prettier-vscode-5.5.0/dist/extension
+[2020-10-23 16:41:33.904] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-10-23 16:41:33.904] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/hadad/.vscode-oss/extensions/vscodevim.vim-1.17.1/out/extension
+[2020-10-23 16:41:34.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-10-23 16:41:34.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-10-23 16:41:35.102] [exthost] [info] eager extensions activated
+[2020-10-23 16:45:41.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-10-23 16:45:41.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-10-23 16:45:41.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-10-23 16:45:41.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-10-23 16:45:52.415] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-10-23 16:46:13.365] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-10-23 16:46:13.366] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-10-23 16:46:40.312] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-10-23 16:46:40.312] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-10-23 16:46:41.417] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-10-23 16:46:41.417] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-10-23 16:46:58.659] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-10-23 16:46:58.660] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-10-23 16:48:41.299] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-10-23 16:48:41.300] [exthost] [error] Error: busy
+	at a._provideSemanticTokens (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:183890)
+[2020-10-23 16:49:35.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-10-23 16:49:35.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-10-23 16:49:35.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-10-23 16:49:35.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain

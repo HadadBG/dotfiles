@@ -1,0 +1,12 @@
+{
+    "prettier": {
+        "overrides": [
+            {
+                "files": "*.hbs",
+                "options": {
+                    "parser": "glimmer"
+                }
+            }
+        ]
+    }
+}

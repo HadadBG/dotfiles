@@ -1,0 +1,12 @@
+[2023-11-18 18:59:20.190] [exthost] [info] Extension host with pid 6345 started
+[2023-11-18 18:59:20.190] [exthost] [info] Skipping acquiring lock for /home/hadad/.config/Code - OSS/User/workspaceStorage/5959f2a176834890882cfc12a141514f.
+[2023-11-18 18:59:20.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-11-18 18:59:20.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2023-11-18 18:59:20.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-11-18 18:59:20.591] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2023-11-18 18:59:21.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-11-18 18:59:21.132] [exthost] [info] Eager extensions activated
+[2023-11-18 18:59:21.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-11-18 18:59:21.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-11-18 18:59:21.154] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2023-11-18 18:59:23.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github

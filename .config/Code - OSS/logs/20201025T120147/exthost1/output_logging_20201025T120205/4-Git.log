@@ -1,0 +1,36 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/hadad/paginas/angular-tour-of-heroes
+> git status -z -u
+> git show :src/app/dashboard/dashboard.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

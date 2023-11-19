@@ -1,0 +1,134 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/hadad/paginas/angular-tour-of-heroes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app/dashboard/dashboard.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git show :src/app/messages/messages.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.html
+> git cat-file -s 090f705fee488e4088b458219e759cd3d86a50be
+> git show :src/app/messages/messages.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.css
+> git cat-file -s 8c34763bdb013fd869d7bba0041039a80afc167f
+> git check-ignore -v -z --stdin
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.module.ts
+> git cat-file -s 1b8439a4363f47fac09521a0a47a1062e9818a42
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.ts
+> git cat-file -s b1290308eacc4738ef16db688457e40488fb34f9
+> git show :src/app/app.component.spec.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.spec.ts
+> git cat-file -s 0d02c7dfed1df383f0e1ff039dd05dc4f53ada95
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/dashboard/dashboard.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts
+> git show :src/app/hero-detail/hero-detail.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/dashboard/dashboard.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/dashboard/dashboard.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.css
+> git show :src/app/dashboard/dashboard.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.html
+> git show :src/app/dashboard/dashboard.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/app.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/app.component.spec.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.spec.ts
+> git cat-file -s 0d02c7dfed1df383f0e1ff039dd05dc4f53ada95
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/dashboard/dashboard.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.css
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git show :src/app/dashboard/dashboard.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

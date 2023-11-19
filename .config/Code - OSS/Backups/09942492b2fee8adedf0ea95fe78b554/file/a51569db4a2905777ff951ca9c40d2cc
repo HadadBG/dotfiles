@@ -1,0 +1,25 @@
+file:///home/hadad/paginas/angular-tour-of-heroes/src/app/dashboard/dashboard.component.ts {"mtime":1603651970280,"ctime":1603477270973,"size":574,"etag":"35s0bl5dmig","orphaned":false}
+import { Component, OnInit } from '@angular/core';
+import {Hero} from '../hero'
+import {HeroService} from '../hero.service'
+@Component({
+  selector: 'app-dashboard',
+  templateUrl: './dashboard.component.html',
+  styleUrls: ['./dashboard.component.css']
+})
+export class DashboardComponent implements OnInit {
+  heroes:Hero[]=[]
+  constructor(private heroService:HeroService) { }
+
+  ngOnInit(): void {
+    this.getHeroes();
+  }
+  onSelect(hero:Hero){
+       
+  }
+  getHeroes():void{
+    this.heroService.getHeroes().subscribe(heroes => this.heroes =heroes.slice(0,4))
+  }
+  
+
+}

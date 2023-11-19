@@ -1,0 +1,6 @@
+2022/08/10-16:38:44.134 1530 Creating DB /home/hadad/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb since it was missing.
+2022/08/10-16:38:44.324 1530 Reusing MANIFEST /home/hadad/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/10-16:38:55.278 151f Level-0 table #5: started
+2022/08/10-16:38:55.325 151f Level-0 table #5: 1255 bytes OK
+2022/08/10-16:38:55.366 151f Delete type=0 #3
+2022/08/10-16:38:55.366 151f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

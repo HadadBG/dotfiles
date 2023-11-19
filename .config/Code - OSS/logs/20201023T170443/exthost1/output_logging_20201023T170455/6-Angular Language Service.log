@@ -1,0 +1,11 @@
+[Info  - 17:04:55] Angular language server process ID: 3945
+[Info  - 17:04:55] Using typescript/lib/tsserverlibrary v4.0.2 from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 17:04:55] Using @angular/language-service v10.1.1 from /home/hadad/.vscode-oss/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 17:04:55] Log file: /home/hadad/.config/Code - OSS/logs/20201023T170443/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 17:05:06] Disabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Info  - 17:05:06] Enabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.app.json.
+[Info  - 17:18:11] Enabling language service for /home/hadad/paginas/angular-tour-of-heroes/tsconfig.spec.json.
+[Error - 17:18:11] No config file for /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.html
+[Error - 17:49:45] No config file for /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+[Error - 17:56:32] No config file for /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+[Error - 18:00:10] No config file for /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.html

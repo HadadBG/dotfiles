@@ -1,0 +1,211 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/hadad/paginas/angular-tour-of-heroes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git check-ignore -v -z --stdin
+> git show :src/app/heroes/heroes.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.html
+> git cat-file -s a21b2d73a478fd6dbdb2025a5a7416c19370c3eb
+> git check-ignore -v -z --stdin
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git check-ignore -v -z --stdin
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.ts
+> git cat-file -s b1290308eacc4738ef16db688457e40488fb34f9
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.module.ts
+> git cat-file -s 1b8439a4363f47fac09521a0a47a1062e9818a42
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app-routing.module.ts
+> git cat-file -s 1a9149222c9025681b5971589843c7f7b77838b0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git show :src/app/hero-detail/hero-detail.component.spec.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.spec.ts
+> git cat-file -s 5e34497bec9c7af8555fcd253a91492875a0784c
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/hero-detail/hero-detail.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/hero-detail/hero-detail.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts
+> git cat-file -s 8e9144a2b2ffaab5149ab33726eff56ccb0515d6
+> git show :src/app/heroes/heroes.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.css
+> git cat-file -s 1448adb0ed3b02c619d937f4f2a951b9bb9c512a
+> git show :src/app/heroes/heroes.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.html
+> git cat-file -s a21b2d73a478fd6dbdb2025a5a7416c19370c3eb
+> git show :src/app/heroes/heroes.component.spec.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts
+> git cat-file -s 66518e44b77fb16004cbb00aeed9c2f60ea00979
+> git show :src/app/hero-detail/hero-detail.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts
+> git cat-file -s 8e9144a2b2ffaab5149ab33726eff56ccb0515d6
+> git show :src/app/hero-detail/hero-detail.component.spec.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.spec.ts
+> git cat-file -s 5e34497bec9c7af8555fcd253a91492875a0784c
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/hero-detail/hero-detail.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/messages/messages.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.ts
+> git cat-file -s 02f2c3794db5999d325963a391add0e5e8b56810
+> git show :src/app/message.service.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/message.service.ts
+> git cat-file -s 41432396c56cbc7a71e7cd4930485b0d33a10374
+> git check-ignore -v -z --stdin
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git show :src/app/heroes/heroes.component.spec.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts
+> git cat-file -s 66518e44b77fb16004cbb00aeed9c2f60ea00979
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/app.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/messages/messages.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/messages/messages.component.html
+> git cat-file -s 090f705fee488e4088b458219e759cd3d86a50be
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/app.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/app.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.html
+> git cat-file -s 0fc7503ad145238b49c59667bfcedff673d9cd46
+> git show :src/app/app.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git show :src/app/app.component.css
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git show :src/app/hero-detail/hero-detail.component.html
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html
+> git cat-file -s 3c246f92f479307c2bcaa0c94b3308f74ebbc9f2
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/heroes/heroes.component.ts
+> git ls-files --stage -- /home/hadad/paginas/angular-tour-of-heroes/src/app/heroes/heroes.component.ts
+> git cat-file -s aabd0b6efad466467fcd3c8ac7016a7ab027ad36
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
